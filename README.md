@@ -5,6 +5,8 @@
 <br>
 Figma Design File:
  - <a href="https://www.figma.com/file/JkcVjyVa9kJhbQEYlNAnpm/dsgn-270-a4?node-id=8%3A2" target="_blank"> Landing Page </a>
+<br>
+<br>
 
 ## Troubleshooting
 Had trouble with <strong> rounding the borders for the images </strong> since I wanted only the top portion to be rounded off. 
